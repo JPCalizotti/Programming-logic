@@ -4,6 +4,7 @@
 
 int contains(int [], int);
 void add(int [], int);
+void bubbleSort(int [], int);
 
 int main(){
     
