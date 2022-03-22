@@ -1,3 +1,6 @@
+//Este programa tem a simples tarefa de remover tags HTML em C
+//This program has the simple task to remove HTML tags in C
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
