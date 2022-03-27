@@ -1,3 +1,6 @@
+//Minha versão de algumas das funções nativas da linguagem C para manipulação de strings.
+//My version of some of the native functions of the C language for string manipulation.
+
 #include <stdio.h>
 #include <stdlib.h>
 
