@@ -1,3 +1,6 @@
+//Algoritmo simples, que busca a quantidade de um digito (0-9) em um número fornecido pelo úsuario.
+//Simple algorithm, who seeks the amount of one digit (0-9) in a number provided by the user.
+
 #include <stdio.h>
 
 int contains(int, int);
